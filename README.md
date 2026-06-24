@@ -1,5 +1,7 @@
 # 🎓 Smart University Management System
 
+![Project Banner](images/banner.png)
+
 A Java-based desktop application developed as a Semester Project for the Object-Oriented Programming (OOP) course.
 
 The system simulates a modern university environment by managing students, courses, facilities, campus services, classrooms, laboratories, and administrative operations through a graphical user interface (GUI).
@@ -94,6 +96,16 @@ This project was developed to demonstrate the core principles of Object-Oriented
 
 ---
 
+## ✨ Key Highlights
+
+- Developed using Object-Oriented Programming principles
+- Interactive Java Swing graphical user interface
+- Generic repository implementation
+- File-based data persistence using serialization
+- Role-based university management workflow
+- UML-based software design and architecture
+- Semester Final Project for BS Artificial Intelligence
+
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
@@ -131,12 +143,6 @@ src
 
 ---
 
-## Dashboard
-
-![Dashboard](images/dashboard.png)
-
----
-
 ## Student Management
 
 ![Student Management](images/student-management.png)
@@ -158,6 +164,12 @@ src
 ## Reports Section
 
 ![Reports](images/reports.png)
+
+---
+
+## UML Class Diagram
+
+![UML Diagram](images/UML-Diagram.jpeg)
 
 ---
 
